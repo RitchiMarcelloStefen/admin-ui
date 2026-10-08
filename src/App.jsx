@@ -12,7 +12,7 @@ function App() {
 </div>
 {/* card end */}
 {/* card begin */}
-<div className="bg-white p-6 min-h-40 rounded-lg shadow text-5xl flex justify-center items-center hover:shadow-lg transition-shadow hover:border hover:bg-gray-200 hover:scale-105 duration-300">
+<div className="text-yellow-500 bg-white p-6 min-h-40 rounded-lg shadow text-5xl flex justify-center items-center hover:shadow-lg transition-shadow hover:border hover:bg-gray-200 hover:scale-105 duration-300">
   card 2
 </div>
 {/* card end */}
